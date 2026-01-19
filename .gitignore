@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data output (generated files)
+data/output/
+
+# Excel temporary files
+~$*.xlsx
+~$*.docx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
