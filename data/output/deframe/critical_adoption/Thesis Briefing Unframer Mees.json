@@ -1,0 +1,54 @@
+{
+    "instances": [
+      {
+        "instance_id": "CFA_001",
+        "timestamp": "05:20",
+        "ngram": "and agency functionally meaningless",
+        "speaker": "Designer",
+        "adoption_type": "direct_adoption",
+        "critical_frame": "erosion of participant agency",
+        "brief_connection": "The designer connects the AI's critique of automated consent to their specific module for participant onboarding, realizing that technical transparency does not equate to actual agency during an AI-led interview.",
+        "evidence_quote": "I see what you mean—if the participant is just following the AI's prompts without knowing the model's goal, then their consent and agency are functionally meaningless. I need to rethink the onboarding from just a legal 'I agree' to a real explanation of the model.",
+        "abstraction_level": "questioning_assumptions",
+        "reasoning": "The designer adopts the specific n-gram 'and agency functionally meaningless' to critique their own initial design assumption that 'informed consent' was a simple checkbox task. By applying this critical frame, the designer moves beyond the functional requirement of 'getting a signature' to an ethical inquiry into whether the participant actually retains agency within an algorithmic system. The turn span of 8 for this phrase suggests a focused conceptual shift during this portion of the session where the designer identifies a core contradiction in their project's approach to user autonomy.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_002",
+        "timestamp": "09:02",
+        "ngram": "performative marketable depth",
+        "speaker": "Designer",
+        "adoption_type": "transformed_adoption",
+        "critical_frame": "extractive insight generation",
+        "brief_connection": "The designer reframes their goal of 'high-fidelity insights' as 'performative marketable depth,' recognizing that the AI might be optimized to produce quotes that look impressive to researchers but lack genuine human understanding.",
+        "evidence_quote": "Right, I've been calling it 'high-fidelity,' but it might just be performative marketable depth. The system is just mirroring the user to get a 'better' quote for the researcher, prioritizing speed over the participant's actual narrative.",
+        "abstraction_level": "exposing_contradictions",
+        "reasoning": "This instance shows the designer transforming their existing professional terminology ('high-fidelity') into a critical frame introduced by the AI ('performative marketable depth'). The designer demonstrates abstract thinking by recognizing the tension between 'efficiency' for the researcher and 'truth' for the participant. They identify that the tool's success metric (getting a 'good quote') might actually undermine the qualitative integrity of the research, which surfaces hidden values in their design brief regarding the commodification of human experience.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_003",
+        "timestamp": "13:10",
+        "ngram": "epistemic dilution",
+        "speaker": "Designer",
+        "adoption_type": "paraphrased_adoption",
+        "critical_frame": "algorithmic reductionism",
+        "brief_connection": "The designer identifies that the pursuit of a 'universal standard' in AI moderation causes a loss of localized, nuanced knowledge, which they now term 'epistemic dilution.'",
+        "evidence_quote": "If I use a universal standard for these AI moderated interviews, I'm introducing epistemic dilution. I'm essentially flattening the human nuance to fit the model. To fix this, I have to prioritize epistemic rigor over AI consistency.",
+        "abstraction_level": "surfacing_values",
+        "reasoning": "The designer uses the concept of 'epistemic dilution' (appearing 4 times in the transcript) to pivot their design strategy. They move from a value of 'consistency/standardization' to a value of 'epistemic rigor'. This demonstrates a high level of critical adoption because the designer is not just repeating the word; they are using it to diagnose a systemic failure in their brief—the 'flattening' of human experience. The large turn span (101) for this concept indicates it became a central pillar of their redesigned approach.",
+        "confidence": "high"
+      }
+    ],
+    "summary_statistics": {
+      "total_instances": 3,
+      "unique_frames_adopted": 3,
+      "adoption_types_distribution": {
+        "direct_adoption": 1,
+        "paraphrased_adoption": 1,
+        "transformed_adoption": 1,
+        "co_construction": 0
+      },
+      "overall_assessment": "The designer successfully engaged with highly abstract critical frames, specifically transitioning from seeing AI as a neutral tool for 'efficiency' to recognizing it as an extractive force that can cause 'epistemic dilution'. They demonstrated a sophisticated ability to connect theoretical critiques of agency and knowledge production directly to UI modules and research methodologies within their brief."
+    }
+  }
