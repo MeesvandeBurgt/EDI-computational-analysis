@@ -1,0 +1,67 @@
+{
+    "instances": [
+      {
+        "instance_id": "CFA_001",
+        "timestamp": "12:45",
+        "ngram": "designed as performative acts",
+        "speaker": "Designer",
+        "adoption_type": "direct_adoption",
+        "critical_frame": "institutional performativity",
+        "brief_connection": "The designer re-evaluates the Red Cross's requirement for 'high-visibility' aid distribution, realizing that the visual markers of help might be more about performing humanitarianism for donors than actual service delivery.",
+        "evidence_quote": "I'm looking at this section on visibility requirements, and it makes me think about what you said about things being designed as performative acts. Is the Red Cross logo on every blanket a tool for the victim, or is it a performance for the public back home?",
+        "abstraction_level": "surfacing_values",
+        "reasoning": "The designer explicitly adopts the AI's term 'performative acts' and applies it to a specific element of the Red Cross brief (visibility and branding). This represents a significant conceptual shift from treating branding as a 'functional requirement' for safety/identification to questioning the underlying value system of institutional visibility. By asking if the design is a 'performance for the public,' the designer moves into an abstract layer of critique regarding the motivations behind humanitarian aesthetics.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_002",
+        "timestamp": "18:22",
+        "ngram": "revolutionary act against",
+        "speaker": "Designer",
+        "adoption_type": "transformed_adoption",
+        "critical_frame": "structural subversion",
+        "brief_connection": "The designer reframes their role from a passive service provider to an active agent who can use design to challenge the bureaucratic status quo of the humanitarian sector.",
+        "evidence_quote": "If I stop thinking of this just as a logistics app and more of a revolutionary act against the standard way aid is top-down, it changes how I'd build the feedback loop. We're not just fixing a flow; we're challenging who holds the data.",
+        "abstraction_level": "identifying_power_structures",
+        "reasoning": "The designer picks up the 'revolutionary act' framing introduced by the AI and transforms it to fit the technical constraints of their brief (the logistics app). They identify a power structure (top-down aid) and propose a design change (feedback loop/data ownership) that addresses that power imbalance. This shows the designer connecting a radical political concept to concrete technical implications, moving beyond 'what to design' to 'how design redistributes power.'",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_003",
+        "timestamp": "25:10",
+        "ngram": "public choice theory",
+        "speaker": "Designer",
+        "adoption_type": "paraphrased_adoption",
+        "critical_frame": "bureaucratic self-preservation",
+        "brief_connection": "The designer uses the lens of public choice theory to understand why certain inefficient protocols in the brief are maintained, attributing them to institutional incentives rather than logistics errors.",
+        "evidence_quote": "Using that public choice theory perspective, I can see why the brief insists on these specific reporting structures. It's not about the crisis; it's about the organization's need to justify its budget to the UN. The design is serving the bureaucracy, not the person in the tent.",
+        "abstraction_level": "questioning_assumptions",
+        "reasoning": "The designer adopts the 'public choice theory' frame to interrogate the 'why' behind the brief's reporting requirements. By recognizing that the design serves 'the bureaucracy' over the 'person in the tent,' the designer exposes a contradiction between the Red Cross's stated mission and its institutional incentives. This represents a movement from procedural coordination to a critical analysis of the political economy of the humanitarian system.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_004",
+        "timestamp": "34:15",
+        "ngram": "crises to force adaption",
+        "speaker": "Designer",
+        "adoption_type": "direct_adoption",
+        "critical_frame": "disaster capitalism / shock doctrine",
+        "brief_connection": "The designer recognizes that the Red Cross's long-term recovery plans in the brief might be inadvertently imposing Western economic 'adaptations' on local communities under the guise of crisis management.",
+        "evidence_quote": "Wait, are we using these crises to force adaption? The brief mentions 'resilience building' but it looks a lot like forcing them to adopt our digital banking systems while they're at their most vulnerable. It feels extractive.",
+        "abstraction_level": "recognizing_historical_context",
+        "reasoning": "The designer identifies the n-gram 'force adaption' and immediately links it to the 'resilience building' terminology in their brief. They recognize the ethical dimension of 'extractive logic' where crisis becomes a pretext for forcing systemic changes that may not benefit the local population. This shows the designer moving into a sociohistorical and ethical critique of the 'neutral' humanitarian intervention.",
+        "confidence": "medium"
+      }
+    ],
+    "summary_statistics": {
+      "total_instances": 4,
+      "unique_frames_adopted": 4,
+      "adoption_types_distribution": {
+        "direct_adoption": 2,
+        "paraphrased_adoption": 1,
+        "transformed_adoption": 1,
+        "co_construction": 0
+      },
+      "overall_assessment": "The designer successfully engaged with several highly abstract frames, moving beyond the functional delivery of the Red Cross brief to interrogate the political and institutional structures it serves. There was a clear progression from acknowledging the AI's critical terminology to applying it as an analytical lens that reshaped the designer's understanding of visibility, power, and institutional logic."
+    }
+  }

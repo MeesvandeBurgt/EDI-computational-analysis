@@ -24,13 +24,6 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data output (generated files)
-data/output/
-
-# Excel temporary files
-~$*.xlsx
-~$*.docx
-
 # OS
 .DS_Store
 Thumbs.db

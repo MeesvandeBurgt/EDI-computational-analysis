@@ -155,7 +155,7 @@ Return a JSON array where each object represents ONE detected instance of critic
 
 Be rigorous. Be conservative. Prioritize precision over recall.
 
-## The n-gram data
+## The n-gram candidates
 
 [input the n-gram data here]
 

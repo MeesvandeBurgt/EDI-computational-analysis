@@ -1,80 +1,180 @@
 n,ngram,global_count,global_MI,transcript_id,count_in_transcript
-4,liberty requires active citizen,2,34.27972187944704,BEP Briefing Unframer Mees,2
-4,requires active citizen participation,2,33.694759378725884,BEP Briefing Unframer Mees,2
-4,active citizen participation in,2,29.140170527048248,BEP Briefing Unframer Mees,2
-4,and agency functionally meaningless,2,28.384904116139097,Thesis Briefing Unframer Mees,2
-4,between automated system control,2,28.302441955947124,BEP Briefing Unframer Mees,2
-4,consent and agency functionally,2,27.799941615417943,Thesis Briefing Unframer Mees,2
-4,tension between automated system,2,27.302441955947124,BEP Briefing Unframer Mees,2
-3,agency functionally meaningless,2,22.847018725430356,Thesis Briefing Unframer Mees,2
-3,liberty requires active,2,22.847018725430356,BEP Briefing Unframer Mees,2
-3,requires active citizen,2,22.847018725430356,BEP Briefing Unframer Mees,2
-3,active citizen participation,2,22.2620562247092,BEP Briefing Unframer Mees,2
-3,extracting intimate narratives,2,22.2620562247092,Thesis Briefing Unframer Mees,2
-3,these large institutions,2,20.38758710679306,Thesis Briefing Unframer Mees,2
-3,performative marketable depth,2,19.618200034934475,Thesis Briefing Unframer Mees,2
-3,public choice theory,3,19.525090630542994,BEP Briefing Unframer Mees,3
-3,tension between automated,2,18.677093723988044,BEP Briefing Unframer Mees,2
-3,automated system control,2,18.454701302651596,BEP Briefing Unframer Mees,2
-3,shaping civic engagement,2,18.355165629100682,BEP Briefing Unframer Mees,2
-3,even though they,2,18.014128711265613,Thesis Briefing Unframer Mees,2
-3,between automated system,2,17.86973880193044,BEP Briefing Unframer Mees,2
-3,citizen participation in,2,17.707467373031562,BEP Briefing Unframer Mees,2
-3,polycentric governance system,2,17.395807613598027,BEP Briefing Unframer Mees,2
-3,ai moderated interviews,7,17.3324455526006,Thesis Briefing Unframer Mees,7
-3,take some time,2,17.17459338345886,BEP Briefing Unframer Mees,2
-3,moderated interviews risk,2,17.03966380337275,Thesis Briefing Unframer Mees,2
-3,open up if,2,17.03323753421332,Thesis Briefing Unframer Mees,2
-2,extracting intimate,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,burkean conservatism,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,agency functionally,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,active citizen,2,11.421189630336563,BEP Briefing Unframer Mees,2
-2,functionally meaningless,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,thematic anchors,2,11.421189630336563,BEP Briefing Unframer Mees,2
-2,scientifically grounded,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,liberty requires,2,11.421189630336563,BEP Briefing Unframer Mees,2
-2,large institutions,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,sweet bono,2,11.421189630336563,Thesis Briefing Unframer Mees,2
-2,requires active,2,11.421189630336563,BEP Briefing Unframer Mees,2
-2,meta narrative,2,10.836227129615407,Thesis Briefing Unframer Mees,2
-2,friction lies,2,10.836227129615407,BEP Briefing Unframer Mees,2
-2,non negotiable,2,10.836227129615407,Thesis Briefing Unframer Mees,2
-2,intimate narratives,2,10.836227129615407,Thesis Briefing Unframer Mees,2
-2,citizen participation,2,10.836227129615407,BEP Briefing Unframer Mees,2
-2,century dutch,2,10.421189630336563,BEP Briefing Unframer Mees,2
-2,showing interest,2,10.421189630336563,Thesis Briefing Unframer Mees,2
-2,urban studies,3,10.421189630336563,BEP Briefing Unframer Mees,3
-2,naturalizes extraction,2,10.421189630336563,BEP Briefing Unframer Mees,2
-2,price driven,2,10.421189630336563,BEP Briefing Unframer Mees,2
-2,effective altruism,2,10.251264628894251,Thesis Briefing Unframer Mees,2
-2,choice theory,3,10.099261535449202,BEP Briefing Unframer Mees,3
-2,even though,2,9.836227129615407,Thesis Briefing Unframer Mees,2
-2,open up,3,9.836227129615407,Thesis Briefing Unframer Mees,3
-2,digital parallel,2,9.836227129615407,Thesis Briefing Unframer Mees,2
-2,focus point,2,9.514299034728046,Thesis Briefing Unframer Mees,2
-2,marketable depth,2,9.514299034728046,Thesis Briefing Unframer Mees,2
-2,performative marketable,2,9.514299034728046,Thesis Briefing Unframer Mees,2
-2,traditional methodologies,2,9.421189630336563,Thesis Briefing Unframer Mees,2
-2,participatory design,2,9.421189630336563,BEP Briefing Unframer Mees,2
-2,public choice,3,9.421189630336563,BEP Briefing Unframer Mees,3
-2,public life,2,9.421189630336563,BEP Briefing Unframer Mees,2
-2,computer computer,2,9.421189630336563,Thesis Briefing Unframer Mees,2
-2,moderated interviews,8,9.421189630336563,Thesis Briefing Unframer Mees,8
-2,polycentric governance,3,9.362295941282994,BEP Briefing Unframer Mees,3
-2,between automated,2,9.251264628894251,BEP Briefing Unframer Mees,2
-2,universal standard,2,9.251264628894251,Thesis Briefing Unframer Mees,2
-2,these large,2,8.961758011699267,Thesis Briefing Unframer Mees,2
-2,people's behavior,2,8.961758011699267,BEP Briefing Unframer Mees,2
-2,versus communal,2,8.836227129615407,BEP Briefing Unframer Mees,2
-2,communal benefits,2,8.836227129615407,BEP Briefing Unframer Mees,2
-2,epistemic delusion,2,8.836227129615407,Thesis Briefing Unframer Mees,2
-2,civic republicanism,3,8.836227129615407,BEP Briefing Unframer Mees,3
-2,civic engagement,3,8.836227129615407,BEP Briefing Unframer Mees,3
-2,last one,3,8.546720512420423,Thesis Briefing Unframer Mees,2
-2,second one,3,8.546720512420423,Thesis Briefing Unframer Mees,2
-2,an irreversible,2,8.514299034728046,BEP Briefing Unframer Mees,2
-2,epistemic dilution,4,8.514299034728046,Thesis Briefing Unframer Mees,4
-2,their own,4,8.514299034728046,BEP Briefing Unframer Mees,4
-2,tension between,3,8.421189630336563,BEP Briefing Unframer Mees,2
-2,polycentric model,2,8.291906613391596,BEP Briefing Unframer Mees,2
-2,epistemic rigor,2,8.251264628894251,Thesis Briefing Unframer Mees,2
+4,liberty requires active citizen,2,37.679837519951235,BEP Briefing Unframer Mees,2
+4,requires active citizen participation,2,37.09487501923008,BEP Briefing Unframer Mees,2
+4,active citizen participation in,2,31.039592583728894,BEP Briefing Unframer Mees,2
+4,crises to force adaption,2,30.38521677105961,Max Red Cross Brief Transcript,2
+4,and agency functionally meaningless,2,30.140678708843208,Thesis Briefing Unframer Mees,2
+4,between automated system control,2,29.728552804984265,BEP Briefing Unframer Mees,2
+4,consent and agency functionally,2,29.55571620812205,Thesis Briefing Unframer Mees,2
+4,designed as performative acts,2,29.429539102044906,Max Red Cross Brief Transcript,2
+4,irreconcilable difference may be,2,28.55571620812205,Max Red Cross Brief Transcript,2
+4,proposing solutions to simply,2,28.47832617545109,Max Red Cross Brief Transcript,2
+4,citizen participation in public,2,28.454630083007736,BEP Briefing Unframer Mees,2
+4,longer chains of thoughts,2,28.317619704038158,Max Red Cross Brief Transcript,2
+4,ai moderated interviews risk,2,28.28752009717248,Thesis Briefing Unframer Mees,2
+4,tension between automated system,2,28.14359030426311,BEP Briefing Unframer Mees,2
+4,participation in public life,2,27.86966758228658,BEP Briefing Unframer Mees,2
+4,perpetually subject to their,2,27.06328867617225,Max Red Cross Brief Transcript,2
+4,has also been generated,2,26.973665302820798,Florian Deltawerken Brief,2
+3,liberty requires active,2,25.11381922221935,BEP Briefing Unframer Mees,2
+3,requires active citizen,2,25.11381922221935,BEP Briefing Unframer Mees,2
+3,agency functionally meaningless,2,24.528856721498194,Thesis Briefing Unframer Mees,2
+3,active citizen participation,2,24.528856721498194,BEP Briefing Unframer Mees,2
+3,extracting intimate narratives,2,24.528856721498194,Thesis Briefing Unframer Mees,2
+3,irreconcilable difference may,2,21.94389422077704,Max Red Cross Brief Transcript,2
+3,revolutionary act against,2,21.528856721498194,Max Red Cross Brief Transcript,2
+3,performative marketable depth,2,21.136539298719434,Thesis Briefing Unframer Mees,2
+3,also perpetually subject,2,20.621966125889674,Max Red Cross Brief Transcript,2
+3,shaping civic engagement,2,20.206928626610832,BEP Briefing Unframer Mees,2
+3,public choice theory,5,20.09589731422209,"BEP Briefing Unframer Mees, Max Red Cross Brief Transcript",5
+3,automated system control,2,20.069425102860897,BEP Briefing Unframer Mees,2
+3,versus sonic ecology,2,19.828417003357103,Max Red Cross Brief Transcript,2
+3,ai moderated interviews,7,19.528856721498194,Thesis Briefing Unframer Mees,7
+3,relationships they seek,2,19.49910937810414,Max Red Cross Brief Transcript,2
+3,moderated interviews risk,2,19.11381922221935,Thesis Briefing Unframer Mees,2
+3,tension between automated,2,19.03700362516852,BEP Briefing Unframer Mees,2
+3,reform from within,2,18.791891127331986,Max Red Cross Brief Transcript,2
+3,polycentric governance system,2,18.525104586637088,BEP Briefing Unframer Mees,2
+3,citizen participation in,2,18.473574285997003,BEP Briefing Unframer Mees,2
+3,collective future making,2,18.441393880247855,Florian Deltawerken Brief,2
+3,makes individual consent,2,18.300038031002313,Thesis Briefing Unframer Mees,2
+3,between automated system,2,18.162534507252378,BEP Briefing Unframer Mees,2
+3,as performative acts,2,17.86352080431302,Max Red Cross Brief Transcript,2
+3,perpetually subject to,2,17.819198473327724,Max Red Cross Brief Transcript,2
+3,crises to force,2,17.819198473327724,Max Red Cross Brief Transcript,2
+3,to force adaption,2,17.819198473327724,Max Red Cross Brief Transcript,2
+3,these large institutions,2,17.577572006531224,Thesis Briefing Unframer Mees,2
+3,copying and pasting,3,17.57466041111132,Florian Deltawerken Brief,3
+3,and agency functionally,2,17.57466041111132,Thesis Briefing Unframer Mees,2
+3,even though they,2,17.45471525874569,Thesis Briefing Unframer Mees,2
+3,designed as performative,2,17.448483305034173,Max Red Cross Brief Transcript,2
+3,a scientifically grounded,2,17.3893053690994,Thesis Briefing Unframer Mees,2
+3,control and user,2,17.159622911832475,BEP Briefing Unframer Mees,2
+3,longer chains of,2,17.073529501193633,Max Red Cross Brief Transcript,2
+3,consent and agency,2,16.989697910390163,Thesis Briefing Unframer Mees,2
+3,that naturalizes extraction,2,16.948912295543664,BEP Briefing Unframer Mees,2
+3,chains of thoughts,3,16.921526407748583,Max Red Cross Brief Transcript,3
+3,also been generated,2,16.867078623726208,Florian Deltawerken Brief,2
+3,questions it purports,2,16.855253188329417,Thesis Briefing Unframer Mees,2
+3,seek to protect,3,16.819198473327724,Max Red Cross Brief Transcript,3
+3,reliance on individual,2,16.791891127331986,BEP Briefing Unframer Mees,2
+3,emphasis on individual,2,16.791891127331986,BEP Briefing Unframer Mees,2
+2,force adaption,2,12.55393513255186,Max Red Cross Brief Transcript,2
+2,active citizen,2,12.55393513255186,BEP Briefing Unframer Mees,2
+2,functionally meaningless,2,12.55393513255186,Thesis Briefing Unframer Mees,2
+2,liberty requires,2,12.55393513255186,BEP Briefing Unframer Mees,2
+2,perpetually subject,2,12.55393513255186,Max Red Cross Brief Transcript,2
+2,sweet bono,2,12.55393513255186,Thesis Briefing Unframer Mees,2
+2,extracting intimate,2,12.55393513255186,Thesis Briefing Unframer Mees,2
+2,requires active,2,12.55393513255186,BEP Briefing Unframer Mees,2
+2,ideological consistency,2,11.968972631830704,Max Red Cross Brief Transcript,2
+2,irreconcilable difference,2,11.968972631830704,Max Red Cross Brief Transcript,2
+2,intimate narratives,2,11.968972631830704,Thesis Briefing Unframer Mees,2
+2,scientifically grounded,2,11.968972631830704,Thesis Briefing Unframer Mees,2
+2,citizen participation,2,11.968972631830704,BEP Briefing Unframer Mees,2
+2,agency functionally,2,11.968972631830704,Thesis Briefing Unframer Mees,2
+2,monastery historian,2,11.968972631830704,Florian Deltawerken Brief,2
+2,showing interest,2,11.55393513255186,Thesis Briefing Unframer Mees,2
+2,naturalizes extraction,2,11.55393513255186,BEP Briefing Unframer Mees,2
+2,meta narrative,3,11.55393513255186,Thesis Briefing Unframer Mees,2
+2,internal friction,2,11.55393513255186,Max Red Cross Brief Transcript,2
+2,burkean conservatism,2,11.55393513255186,Thesis Briefing Unframer Mees,2
+2,longer chains,2,11.384010131109548,Max Red Cross Brief Transcript,2
+2,thematic anchors,4,11.232007037664498,"BEP Briefing Unframer Mees, Florian Deltawerken Brief",4
+2,non negotiable,2,11.232007037664498,Thesis Briefing Unframer Mees,2
+2,side note,2,10.968972631830704,Max Red Cross Brief Transcript,2
+2,price driven,2,10.968972631830704,BEP Briefing Unframer Mees,2
+2,questioning whether,2,10.968972631830704,Max Red Cross Brief Transcript,2
+2,effective altruism,2,10.968972631830704,Thesis Briefing Unframer Mees,2
+2,revolutionary act,2,10.968972631830704,Max Red Cross Brief Transcript,2
+2,thought provoking,3,10.746580210494256,Florian Deltawerken Brief,3
+2,austrian economics,3,10.746580210494256,Max Red Cross Brief Transcript,3
+2,proposing solutions,2,10.647044536943342,Max Red Cross Brief Transcript,2
+2,particularly interested,2,10.647044536943342,Max Red Cross Brief Transcript,2
+2,engineering projects,2,10.647044536943342,Florian Deltawerken Brief,2
+2,computer computer,2,10.55393513255186,Thesis Briefing Unframer Mees,2
+2,starting points,2,10.55393513255186,Max Red Cross Brief Transcript,2
+2,urban studies,3,10.55393513255186,BEP Briefing Unframer Mees,3
+2,moderated interviews,8,10.55393513255186,Thesis Briefing Unframer Mees,8
+2,friction lies,2,10.55393513255186,BEP Briefing Unframer Mees,2
+2,century dutch,2,10.384010131109548,BEP Briefing Unframer Mees,2
+2,marketable depth,2,10.384010131109548,Thesis Briefing Unframer Mees,2
+2,universal standard,2,10.384010131109548,Thesis Briefing Unframer Mees,2
+2,historical institutionalism,2,10.232007037664498,Florian Deltawerken Brief,2
+2,technocratic response,2,10.1616177097731,Florian Deltawerken Brief,2
+2,performative acts,2,10.1616177097731,Max Red Cross Brief Transcript,2
+2,performative marketable,2,10.1616177097731,Thesis Briefing Unframer Mees,2
+2,choice theory,5,10.120975725275754,"BEP Briefing Unframer Mees, Max Red Cross Brief Transcript",5
+2,discussion starters,4,10.094503513914564,Florian Deltawerken Brief,3
+2,liturgical time,2,10.094503513914564,Florian Deltawerken Brief,2
+2,people's behavior,2,10.094503513914564,BEP Briefing Unframer Mees,2
+2,even though,3,10.094503513914564,Thesis Briefing Unframer Mees,2
+2,polycentric governance,3,10.00961461632805,BEP Briefing Unframer Mees,3
+2,public choice,6,9.968972631830704,"BEP Briefing Unframer Mees, Max Red Cross Brief Transcript",6
+2,civic republicanism,3,9.968972631830704,BEP Briefing Unframer Mees,3
+2,epistemic delusion,2,9.968972631830704,Thesis Briefing Unframer Mees,2
+2,sonic ecology,2,9.968972631830704,Max Red Cross Brief Transcript,2
+2,lots lots,2,9.910078942777135,Max Red Cross Brief Transcript,2
+2,traditional methodologies,2,9.853495414410768,Thesis Briefing Unframer Mees,2
+2,centralized planning,2,9.799047630388392,Florian Deltawerken Brief,2
+2,universalist planning,2,9.799047630388392,Florian Deltawerken Brief,2
+2,rather than,5,9.746580210494256,Max Red Cross Brief Transcript,2
+2,red cross,14,9.647044536943342,Max Red Cross Brief Transcript,14
+2,epistemic dilution,4,9.647044536943342,Thesis Briefing Unframer Mees,4
+2,first paragraph,2,9.647044536943342,Florian Deltawerken Brief,2
+2,attention between,2,9.647044536943342,Max Red Cross Brief Transcript,2
+2,civic engagement,3,9.55393513255186,BEP Briefing Unframer Mees,3
+2,collective future,3,9.55393513255186,Florian Deltawerken Brief,3
+2,simply making,2,9.466472291301521,Max Red Cross Brief Transcript,2
+2,difference may,2,9.384010131109548,Max Red Cross Brief Transcript,2
+2,digital parallel,2,9.384010131109548,Thesis Briefing Unframer Mees,2
+2,public life,2,9.384010131109548,BEP Briefing Unframer Mees,2
+2,deep ecology,5,9.290900726718066,"Florian Deltawerken Brief, Max Red Cross Brief Transcript",5
+2,versus sonic,2,9.268532913689612,Max Red Cross Brief Transcript,2
+2,three agents,5,9.261153383324014,Florian Deltawerken Brief,2
+2,i've got,2,9.232007037664498,Max Red Cross Brief Transcript,2
+2,individual behavioral,3,9.232007037664498,BEP Briefing Unframer Mees,3
+2,ecological side,2,9.232007037664498,Florian Deltawerken Brief,2
+2,dialogue turns,3,9.232007037664498,Florian Deltawerken Brief,3
+2,common good,3,9.232007037664498,BEP Briefing Unframer Mees,3
+2,better understanding,2,9.232007037664498,Florian Deltawerken Brief,2
+2,open up,3,9.232007037664498,Thesis Briefing Unframer Mees,3
+2,polycentric model,2,9.232007037664498,BEP Briefing Unframer Mees,2
+2,worked out,3,9.232007037664498,Florian Deltawerken Brief,3
+2,qualitative data,2,9.1616177097731,Thesis Briefing Unframer Mees,2
+2,only spaces,2,9.094503513914564,Max Red Cross Brief Transcript,2
+2,go back,2,9.094503513914564,Max Red Cross Brief Transcript,2
+2,between automated,2,9.062082036222186,BEP Briefing Unframer Mees,2
+2,our role,2,9.062082036222186,Max Red Cross Brief Transcript,2
+2,future making,6,9.051434792022677,Florian Deltawerken Brief,6
+2,act against,2,8.968972631830704,Max Red Cross Brief Transcript,2
+2,power relations,2,8.968972631830704,Max Red Cross Brief Transcript,2
+2,graduation project,3,8.968972631830704,Florian Deltawerken Brief,3
+2,epistemic rigor,2,8.968972631830704,Thesis Briefing Unframer Mees,2
+2,communal benefits,2,8.968972631830704,BEP Briefing Unframer Mees,2
+2,ai moderated,7,8.968972631830704,Thesis Briefing Unframer Mees,7
+2,little bit,7,8.951899118471763,"BEP Briefing Unframer Mees, Max Red Cross Brief Transcript",6
+2,each other,4,8.910078942777135,Florian Deltawerken Brief,3
+2,come up,4,8.839689614885737,Max Red Cross Brief Transcript,3
+2,been generated,2,8.799047630388392,Florian Deltawerken Brief,2
+2,large institutions,2,8.7725754190272,Thesis Briefing Unframer Mees,2
+2,read everything,2,8.746580210494256,Max Red Cross Brief Transcript,2
+2,bring up,2,8.647044536943342,Florian Deltawerken Brief,2
+2,shaping civic,2,8.647044536943342,BEP Briefing Unframer Mees,2
+2,energy usage,2,8.647044536943342,BEP Briefing Unframer Mees,2
+2,some imbalance,2,8.647044536943342,Thesis Briefing Unframer Mees,2
+2,individual consent,2,8.647044536943342,Thesis Briefing Unframer Mees,2
+2,interviews risk,2,8.55393513255186,Thesis Briefing Unframer Mees,2
+2,power structures,3,8.55393513255186,Max Red Cross Brief Transcript,2
+2,certain problem,2,8.531567319523406,Florian Deltawerken Brief,2
+2,said before,3,8.524187789157809,Max Red Cross Brief Transcript,3
+2,participatory design,2,8.509541013193408,BEP Briefing Unframer Mees,2
+2,automated system,2,8.509541013193408,BEP Briefing Unframer Mees,2
+2,helped me,2,8.509541013193408,Florian Deltawerken Brief,2
+2,reality making,2,8.466472291301521,Max Red Cross Brief Transcript,2
+2,further down,3,8.438457915131924,Florian Deltawerken Brief,2
+2,ecological economics,2,8.424652115606895,Florian Deltawerken Brief,2
+2,an irreversible,2,8.384010131109548,BEP Briefing Unframer Mees,2
+2,dominant system,3,8.357537919748356,Max Red Cross Brief Transcript,3
+2,oh wow,3,8.331542711215413,Florian Deltawerken Brief,3
+2,expand my,2,8.268532913689612,Florian Deltawerken Brief,2

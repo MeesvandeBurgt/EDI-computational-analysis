@@ -1,0 +1,54 @@
+{
+    "instances": [
+      {
+        "instance_id": "CFA_001",
+        "timestamp": "04:15",
+        "ngram": "liberty requires active citizen",
+        "speaker": "Designer",
+        "adoption_type": "direct_adoption",
+        "critical_frame": "Civic Republicanism",
+        "brief_connection": "The designer moves from viewing the project as a simple service delivery app to a tool that must foster active citizenship to maintain political liberty.",
+        "evidence_quote": "I like that idea that liberty requires active citizen participation. It changes how I think about the dashboard; it shouldn't just provide info, it should demand something from the user as a citizen.",
+        "abstraction_level": "surfacing_values",
+        "reasoning": "The designer explicitly adopts the 'liberty requires active citizen' n-gram introduced by the AI tool. This represents a significant conceptual shift from a functionalist 'user experience' perspective to a normative 'civic republican' perspective. By stating that the dashboard 'should demand something,' the designer is questioning the assumption that design should always be frictionless, identifying instead that 'friction' or effort is a requirement for the value of liberty within the context of their urban design brief. This move shifts the project's goal from convenience to political agency.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_002",
+        "timestamp": "12:42",
+        "ngram": "tension between automated system",
+        "speaker": "Designer",
+        "adoption_type": "paraphrased_adoption",
+        "critical_frame": "Automated Control vs. Agency",
+        "brief_connection": "The designer identifies a conflict in their brief between the efficiency of automated urban management and the necessity of human intervention and oversight.",
+        "evidence_quote": "There is a real tension between automated system control and the people's ability to actually change things. My brief focused so much on the automation that I missed how it might lock people out of the decision-making process.",
+        "abstraction_level": "exposing_contradictions",
+        "reasoning": "The designer utilizes the 'tension between automated system' n-gram to articulate a newly discovered contradiction in their initial brief. The analysis shows a transition from 'how to automate' (functional) to 'what happens to agency when we automate' (critical). This instance qualifies as adoption because the designer extends the frame to identify a specific negative consequence ('locking people out') that was not present in their original problem statement. The turn span for this concept (27) indicates a sustained engagement with this specific critical tension throughout the middle of the session.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_003",
+        "timestamp": "21:10",
+        "ngram": "polycentric governance system",
+        "speaker": "Designer",
+        "adoption_type": "transformed_adoption",
+        "critical_frame": "Decentralized Institutionalism",
+        "brief_connection": "The designer reframes the 'smart city' architecture from a centralized command-and-control center to a distributed network of local governance nodes.",
+        "evidence_quote": "If we look at it as a polycentric governance system rather than just a city hall app, the data flows need to be horizontal, not just vertical. It changes the whole hierarchy of the interface.",
+        "abstraction_level": "identifying_power_structures",
+        "reasoning": "The designer adopts the technical n-gram 'polycentric governance system' and immediately translates it into concrete design implications ('horizontal data flows'). This demonstrates high-level abstraction by recognizing how the underlying political structure (centralized vs. polycentric) dictates the technical requirements of the design. By questioning the 'hierarchy of the interface,' the designer is critiquing the power dynamics inherent in centralized data collection. The use of this complex theoretical frame to reshape the actual UI layout marks a successful bridge between abstract critical theory and practical design application.",
+        "confidence": "high"
+      }
+    ],
+    "summary_statistics": {
+      "total_instances": 3,
+      "unique_frames_adopted": 3,
+      "adoption_types_distribution": {
+        "direct_adoption": 1,
+        "paraphrased_adoption": 1,
+        "transformed_adoption": 1,
+        "co_construction": 0
+      },
+      "overall_assessment": "The designer successfully engaged at a high critical level, moving from a technocratic 'smart city' mindset to one focused on civic agency and power distribution. The adoption of frames like 'civic republicanism' and 'polycentric governance' allowed the designer to identify systemic contradictions in their brief that were previously invisible, specifically regarding the erosion of citizen agency through automation."
+    }
+  }
