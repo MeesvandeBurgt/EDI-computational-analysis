@@ -1,0 +1,54 @@
+{
+    "instances": [
+      {
+        "instance_id": "CFA_001",
+        "timestamp": "05:22",
+        "ngram": "technocratic response",
+        "speaker": "Designer",
+        "adoption_type": "direct_adoption",
+        "critical_frame": "technocratic solutionism vs. universalist planning",
+        "brief_connection": "The designer connects these frames to the rigid engineering legacy of the Delta Works, realizing that his initial brief was subconsciously replicating a 1950s top-down mindset rather than questioning it.",
+        "evidence_quote": "I really like the 'technocratic response' and 'universalist planning' ones. It makes me realize I've been approaching the Deltawerken as just a technical puzzle to solve. It helps me see the mindset of the 50s engineering projects as a specific power structure.",
+        "abstraction_level": "questioning_assumptions",
+        "reasoning": "The designer demonstrates a clear shift from viewing the Delta Works as a neutral infrastructure project to seeing it as a product of a specific historical 'mindset' and 'power structure.' By adopting the AI's terms 'technocratic response' and 'universalist planning,' the designer moves beyond functional engineering requirements. He recognizes that his own approach was 'subconsciously' aligned with these frames. This instance qualifies because the designer explicitly uses the n-grams to re-evaluate the 'why' behind the original design brief, identifying the socio-historical values (efficiency and control) that have dictated the region's landscape for decades. He demonstrates abstract thinking by categorizing technical decisions as political/institutional choices, showing a high level of critical engagement with the brief's underlying logic.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_002",
+        "timestamp": "10:45",
+        "ngram": "liturgical time",
+        "speaker": "Designer",
+        "adoption_type": "paraphrased_adoption",
+        "critical_frame": "temporal reframing (linear vs. cyclical time)",
+        "brief_connection": "The designer applies the concept of 'liturgical time' to move away from the linear, 'once-and-for-all' logic of flood defense toward a rhythmic, seasonal understanding of water management in Zeeland.",
+        "evidence_quote": "The 'liturgical time' one is super interesting... thinking about time not as a linear thing but something that repeats. It changes the project from 'fixing' the water to a rhythmic relationship with the seasons.",
+        "abstraction_level": "recognizing_historical_context",
+        "reasoning": "In this instance, the designer adopts the AI’s provocative framing of 'liturgical time' to challenge the dominant engineering paradigm of linear progress (build a dam, solve the problem). By paraphrasing the concept as a 'rhythmic relationship,' the designer connects the abstract critical frame to the specific environmental context of his brief—the tides and seasons of the Zeeland delta. This represents a significant conceptual shift: the 'problem' of water is no longer a failure of infrastructure to be corrected, but a natural cycle to be integrated into. This abstraction allows the designer to question the normative assumption that design must always 'fix' or 'stabilize' nature, suggesting instead a more socio-culturally grounded approach to time and maintenance.",
+        "confidence": "high"
+      },
+      {
+        "instance_id": "CFA_003",
+        "timestamp": "15:12",
+        "ngram": "collective future making",
+        "speaker": "Designer",
+        "adoption_type": "transformed_adoption",
+        "critical_frame": "democratized agency in urban governance",
+        "brief_connection": "The designer reframes his participatory workshops from simple 'user feedback' sessions into a more radical 'collective future making' process that addresses regional power dynamics.",
+        "evidence_quote": "This 'collective future making' really captures what I'm trying to do with the participatory workshops. It's not just feedback; it's a political act of who gets to decide what Zeeland looks like in 50 years.",
+        "abstraction_level": "identifying_power_structures",
+        "reasoning": "The designer adopts the n-gram 'collective future making' and immediately transforms it to fit his specific project methodology. He elevates the status of his 'workshops' from a standard design procedure (procedural) to a 'political act' (critical). This demonstrates an understanding of the power dynamics inherent in design: he recognizes that the act of envisioning the future is not neutral, but a negotiation between different stakeholders. By explicitly linking the AI’s frame to the question of 'who gets to decide,' the designer moves into an abstract layer of ethical reflection. He moves from the 'what' (workshops) to the 'why' (contesting power and agency). This is a strong example of frame adoption because the designer uses the AI's language to validate and expand his critical stance on the designer-citizen relationship.",
+        "confidence": "high"
+      }
+    ],
+    "summary_statistics": {
+      "total_instances": 3,
+      "unique_frames_adopted": 3,
+      "adoption_types_distribution": {
+        "direct_adoption": 1,
+        "paraphrased_adoption": 1,
+        "transformed_adoption": 1,
+        "co_construction": 0
+      },
+      "overall_assessment": "The designer successfully engaged with the AI's critical provocations, moving from a technical 'problem-solving' mindset to a more reflective, socio-political understanding of the Deltawerken project. The adoption of frames like 'liturgical time' and 'technocratic response' allowed the designer to articulate tensions between engineering legacies and community agency that were previously implicit or ignored in his brief."
+    }
+  }
